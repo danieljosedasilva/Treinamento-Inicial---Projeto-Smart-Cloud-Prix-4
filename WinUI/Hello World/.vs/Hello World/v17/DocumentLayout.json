@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wxdan\\Documents\\ProjectC#\\WinUI\\Hello World\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB01AEC-16E6-4A3D-93F8-35F1F4590C12}|Hello World\\Hello World.csproj|c:\\users\\wxdan\\documents\\projectc#\\winui\\hello world\\hello world\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB01AEC-16E6-4A3D-93F8-35F1F4590C12}|Hello World\\Hello World.csproj|solutionrelative:hello world\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB01AEC-16E6-4A3D-93F8-35F1F4590C12}|Hello World\\Hello World.csproj|c:\\users\\wxdan\\documents\\projectc#\\winui\\hello world\\hello world\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBB01AEC-16E6-4A3D-93F8-35F1F4590C12}|Hello World\\Hello World.csproj|solutionrelative:hello world\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB01AEC-16E6-4A3D-93F8-35F1F4590C12}|Hello World\\Hello World.csproj|c:\\users\\wxdan\\documents\\projectc#\\winui\\hello world\\hello world\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB01AEC-16E6-4A3D-93F8-35F1F4590C12}|Hello World\\Hello World.csproj|solutionrelative:hello world\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a975660a-81e4-4830-aa25-1b824c3bf732}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wxdan\\Documents\\ProjectC#\\WinUI\\Hello World\\Hello World\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Hello World\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\wxdan\\Documents\\ProjectC#\\WinUI\\Hello World\\Hello World\\App.xaml.cs",
+              "RelativeToolTip": "Hello World\\App.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:21:34.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wxdan\\Documents\\ProjectC#\\WinUI\\Hello World\\Hello World\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Hello World\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wxdan\\Documents\\ProjectC#\\WinUI\\Hello World\\Hello World\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Hello World\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:20:57.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wxdan\\Documents\\ProjectC#\\WinUI\\Hello World\\Hello World\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Hello World\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wxdan\\Documents\\ProjectC#\\WinUI\\Hello World\\Hello World\\MainWindow.xaml",
+              "RelativeToolTip": "Hello World\\MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-14T12:20:47.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "emGUf9iDyGo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wxdan\\Documents\\ProjectC#\\WinUI\\Hello World\\Hello World\\Hello World.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wxdan\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.26100.1\\microsoft.windows.sdk.buildtools.10.0.26100.1.nupkg.sha512",
+    "C:\\Users\\wxdan\\.nuget\\packages\\microsoft.windowsappsdk\\1.5.240802000\\microsoft.windowsappsdk.1.5.240802000.nupkg.sha512",
+    "C:\\Users\\wxdan\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.7\\microsoft.netcore.app.runtime.win-x86.8.0.7.nupkg.sha512",
+    "C:\\Users\\wxdan\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512",
+    "C:\\Users\\wxdan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.7\\microsoft.aspnetcore.app.runtime.win-x86.8.0.7.nupkg.sha512",
+    "C:\\Users\\wxdan\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\8.0.7\\microsoft.netcore.app.runtime.win-arm64.8.0.7.nupkg.sha512",
+    "C:\\Users\\wxdan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.7\\microsoft.aspnetcore.app.runtime.win-x64.8.0.7.nupkg.sha512",
+    "C:\\Users\\wxdan\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\8.0.7\\microsoft.windowsdesktop.app.runtime.win-arm64.8.0.7.nupkg.sha512",
+    "C:\\Users\\wxdan\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.7.nupkg.sha512",
+    "C:\\Users\\wxdan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\8.0.7\\microsoft.aspnetcore.app.runtime.win-arm64.8.0.7.nupkg.sha512",
+    "C:\\Users\\wxdan\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.7\\microsoft.netcore.app.runtime.win-x64.8.0.7.nupkg.sha512",
+    "C:\\Users\\wxdan\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.7\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
